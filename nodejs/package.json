@@ -1,0 +1,12 @@
+{
+    "name": "site-js",
+    "version": "1.1.1",
+    "description": "Первый проект на Node и Docker",
+    "main": "main.js",
+    "author": "Your Name",
+    "license": "X11",
+    "dependencies": {
+        "express": "^4.17.1",
+        "body-parser": "1.19.0"
+    }
+}

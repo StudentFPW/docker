@@ -1,0 +1,48 @@
+html {
+    font-family: cursive;
+}
+
+body {
+    margin: 0;
+}
+
+section,
+form {
+    padding: 1rem;
+    border-radius: 14px;
+    box-shadow: 0 3px 6px rgba(165, 73, 73, 0.26);
+    margin: 2rem auto;
+    max-width: 35rem;
+}
+
+.form {
+    margin: 0.4rem 0;
+}
+
+input {
+    font: inherit;
+}
+
+input,
+label {
+    display: block;
+}
+
+label {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+button {
+    background-color: #421070;
+    border: 1px solid #0d0316;
+    color: white;
+    cursor: pointer;
+    padding: 0.6rem 1.4rem;
+}
+
+button:hover,
+button:active {
+    background-color: #8b2399;
+    border-color: #1c0542;
+}
